@@ -41,7 +41,7 @@ Consider again the 2004 PGA golfers data from question #3.  Construct a standard
 
 Now consider the following dataset, which consists of three additional golfers not in set on which you made your model fits.
 
-http://eecs.ucf.edu/~wiegand/idc6700/datasets/pga2004b.csv Links to an external site.
+http://eecs.ucf.edu/~wiegand/idc6700/datasets/pga2004b.csv 
 
  Use your two models from question #4 to make predictions of the winnings in the new data set.  Compare these to the actual winnings.  Which is the better predictor.
 
